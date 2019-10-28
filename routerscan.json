@@ -4,7 +4,6 @@
     "version": "2.60",
     "url": "http://msk1.stascorp.com/routerscan/prerelease.7z",
     "hash": "7E730ED44B233208EDB9E34B78B39B5A69CD651BF0045077C4FBA4856CF9E6C3",
-    "extract_to": "routerscan",
     "bin": "RouterScan.exe",
     "shortcuts": [
         [
